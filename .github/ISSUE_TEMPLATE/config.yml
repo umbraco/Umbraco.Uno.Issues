@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🚀 Umbraco Uno Issue
+    url: https://github.com/umbraco/Umbraco.Cloud.Issues/issues/new?assignees=&labels=category%2Funo&template=2.+Umbraco+Uno.yml
+    about: Have a problem with Umbraco Uno? Missing a feature? Lets us know!
